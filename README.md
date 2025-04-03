@@ -3,11 +3,11 @@
 A backend API to manage personal tasks with secure authentication, built for a software engineering internship assessment.
 
 **Key Features**  
-✅ User registration/login with password hashing  
-✅ Create, read, update, and delete tasks  
-✅ Daily/weekly/monthly task reporting  
-🔒 JWT authentication for all protected routes  
-📚 Self-documenting via Swagger UI  
+- User registration/login with password hashing  
+- Create, read, update, and delete tasks  
+- Daily/weekly/monthly task reporting  
+- JWT authentication for all protected routes  
+- Self-documenting via Swagger UI  
 
 ## Tech Stack
 - **Framework**: ASP.NET Core 7  
